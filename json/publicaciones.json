@@ -1,0 +1,163 @@
+[
+    {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Jojo Rabbit",
+        "añoDeEstreno":"2019",
+        "post":"Una de las películas más estimulantes e interesantes que he visto. El humor retorcido, la gran actuación y los personajes extraños sorprenderán a los que no estén preparados, pues crea mucha intriga.",
+        "img":"../assets/img/b6.png",
+        "fecha":"16/Septiembre/2022",
+        "hora":"03:53am"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Los hermanos Willoughby",
+        "añoDeEstreno":"2020",
+        "post":"Los Willoughbys es una aventura loca, que da la bienvenida al público a un mundo de sueños. Es oscura pero alegre, divertida pero sincera. Un viaje para descubrir la gloria de una familia elegida.",
+        "img":"../assets/img/b7.png",
+        "fecha":"20/Septiembre/2022",
+        "hora":"08:26pm"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Divergente",
+        "añoDeEstreno":"2014",
+        "post":"Otra exitosa novela distópica convertida en película, con acción, romance y autorrealización entretejidos. Pero a diferencia de otros de este género, Divergente deambula sobre un rico suelo filosófico.",
+        "img":false,
+        "fecha":"22/Septiembre/2022",
+        "hora":"09:52am"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Los Miserables",
+        "añoDeEstreno":"2012",
+        "post":"A pesar de sus fallas, la historia de Los Miserables es clásica por una razón. Hay algo especial en la música que te captura, lo que hace que la película sea agradable a pesar de sus imperfecciones.",
+        "img":"../assets/img/b8.jpg",
+        "fecha":"24/Septiembre/2022",
+        "hora":"06:10pm"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Los juegos del hambre",
+        "añoDeEstreno":"2012",
+        "post":"Absolutamente fantástica. Gary Ross dio vida a las partes más crudas e intensas del libro. Entre la actuación emocional, la poderosa música, y la escenografía, todo se une para una obra maestra intensa y emocional.",
+        "img":"../assets/img/b9.jpg",
+        "fecha":"5/Octubre/2022",
+        "hora":"07:02pm"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Narnia",
+        "añoDeEstreno":"2005",
+        "post":"Felicito a los directores de la película por su estricta adherencia al libro. El alcance, la profundidad y la maravilla del mundo de Lewis se han capturado de una manera atemporal que mantendrán a cualquiera interesado.",
+        "img":false,
+        "fecha":"10/Octubre/2022",
+        "hora":"08:17pm"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Ratatouille",
+        "añoDeEstreno":"2007",
+        "post":"Esta es una película sobre una rata que se convierte en chef en París. Pero es mucho más que eso. Se trata de lo que puede ser un gran artista. Una comedia que se relaciona de manera realista con la vida.",
+        "img":"../assets/img/b10.png",
+        "fecha":"18/Octubre/2022",
+        "hora":"03:43am"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Mujercitas",
+        "añoDeEstreno":"2019",
+        "post":"Una película preciosa y cálida. Esta versión trae una perspectiva diferente sin perder la magia de la novela. La toma de Gerwig agrega claridad y sabiduría al desarrollo de los personajes.",
+        "img":false,
+        "fecha":"21/Octubre/2022",
+        "hora":"11:06pm"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Enredados",
+        "añoDeEstreno":"2010",
+        "post":"Este es un musical de Disney clásico y agradable. El mayor cumplido que puedo dar a los animadores es que a veces olvidé que estaba viendo una película en animada.",
+        "img":"../assets/img/b11.png",
+        "fecha":"22/Octubre/2022",
+        "hora":"10:18am"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"La la land",
+        "añoDeEstreno":"2016",
+        "post":"Una historia magníficamente fotografiada, descaradamente nostálgica y agridulce, que demuestra el ojo fantástico de Chazelle para las secuencias musicales, en conjunto con la actuación trascendental de Emma Stone.",
+        "img":"../assets/img/b12.png",
+        "fecha":"6/Noviembre/2022",
+        "hora":"05:18pm"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Viuda negra",
+        "añoDeEstreno":"2021",
+        "post":"La historia, en su mayoría independiente, contiene una cantidad sorprendente de corazón y finalmente le da a este personaje del MCU una despedida adecuada.",
+        "img":false,
+        "fecha":"13/Noviembre/2022",
+        "hora":"01:39am"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Escritores de la libertad",
+        "añoDeEstreno":"2007",
+        "post":"Tiene momentos inspiradores dada la historia real, y algunas escenas tensas y dramáticas. Se beneficia de un tema interesante y buenas actuaciones, solo desearía que fuera más enfocada y profunda.",
+        "img":false,
+        "fecha":"23/Noviembre/2022",
+        "hora":"02:25am"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"El show de Truman",
+        "añoDeEstreno":"1998",
+        "post":"Una mirada divertida, sincera y apasionante sobre la cultura de las celebridades y las tendencias antipáticas de un público insaciable. El show de Truman sigue siendo uno de los mejores guiones de la historia.",
+        "img":"../assets/img/b13.png",
+        "fecha":"24/Noviembre/2022",
+        "hora":"11:50am"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Nace una estrella",
+        "añoDeEstreno":"2018",
+        "post":"En su nueva versión, Nace una estrella presenta una historia de amor maravillosamente contada y conmovedora. Lady Gaga maneja sutil y convincentemente la transformación de su personaje a una celebridad.",
+        "img":"../assets/img/b14.png",
+        "fecha":"28/Noviembre/2022",
+        "hora":"05:24am"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Mamma mia",
+        "añoDeEstreno":"2008",
+        "post":"Números ingeniosos de canto y baile, con un coro de residentes de la isla, y divertidísimas escenas mientras continúan los preparativos de la boda. La película es asombrosa, impredecible, y conmovedora.",
+        "img":false,
+        "fecha":"29/Noviembre/2022",
+        "hora":"02:09am"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"El rey león",
+        "añoDeEstreno":"1994",
+        "post":"El Rey León, con alegres canciones de Elton John y Tim Rice, es innegable y totalmente digna de su glorioso legado. Es un magnífico triunfo, un león del que Disney puede enorgullecerse justificadamente.",
+        "img":"../assets/img/b15.png",
+        "fecha":"30/Noviembre/2022",
+        "hora":"03:46am"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Nosotros",
+        "añoDeEstreno":"2019",
+        "post":"Cada elemento de esta película tiene un propósito y está configurado como un movimiento de ajedrez, desde la banda sonora hasta los valores de producción detallados. Peele es un maestro en la creación de tensión.",
+        "img":"../assets/img/b16.png",
+        "fecha":"7/Diciembre/2022",
+        "hora":"02:32pm"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Malcom y Marie",
+        "añoDeEstreno":"2021",
+        "post":"Con magníficas actuaciones, diálogos resonantes y legante producción, la película nos hace ver más allá de una pareja que discute, reconociendo que una mujer subestimada ha encontrado su voz.",
+        "img":"../assets/img/b17.png",
+        "fecha":"19/Diciembre/2022",
+        "hora":"12:27pm"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"El laberinto del Fauno",
+        "añoDeEstreno":"2006",
+        "post":"La historia es convincente y profunda. La película es hermosa, emocionante y horrible. Los efectos de las criaturas son magníficos. Ver la mente de Guillermo del Toro es verdaderamente asombroso.",
+        "img":false,
+        "fecha":"22/Diciembre/2022",
+        "hora":"04:09am"
+    } , {
+        "nombreDeUsuario":"",
+        "nombreDePelícula":"Hereditary",
+        "añoDeEstreno":"2018",
+        "post":"Tomi Collette da una actuación desgarradora en que nos recuerda los sacrificios de la paternidad. Es un horror inquietante y visualmente bien elaborado.",
+        "img":"../assets/img/b18.jpg",
+        "fecha":"3/Enero/2023",
+        "hora":"11:47pm"
+    }
+]

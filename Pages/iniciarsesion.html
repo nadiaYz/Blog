@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Blog de películas">
+    <meta name="author" content="Nadia Yamamoto">
+    <title>Blog</title>
+    <link rel="icon" type="image/x-icon" href="../assets/img/favicon.ico (2).png">
+    <link rel="stylesheet" href="../CSS/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=Quicksand:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css"/>
+    <meta property="og:title" content="Index">
+    <meta property="og:site_name" content="Blog">
+    <meta property="og:url" content="">
+    <meta property="og:description" content="Blog de películas">
+    <meta property="og:type" content="website">
+</head>
+<body class="claro">
+    <header class="color">
+        <div class="containerHeader">
+            <div>
+                <a href="../index.html"  class="bi4 bi-camera-video"></a>
+            </div>
+            <div>
+                <img class="nombreImg" src="../assets/img/b3.png" alt="Banner con el nombre del blog, Ve películas">
+            </div>
+            <div>
+                <i class="bi4 bi-envelope"></i>
+                <span id="notificacionId">.</span>
+            </div>
+            <div class="subMenuWrap" id="sub-Menu" >
+                <div class="subMenu">
+                    <h3 class="notifLetras fontPlayfairReg">Notificaciones</h3>
+                    <div><i class="bi6 bi-trash-fill"></i></div>
+                    <hr>
+                    <div class="notificacionEstilo">
+                        <h4 class="fontPlayfairReg padding">Te ha gustado un post</h4>
+                        <div class="opciones">
+                            <a class="opcionesLetras" href="../Pages/favoritos.html">Ver</a>
+                            <p class="opcionesLetras">Eliminar</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <nav class="font-30 fontPlayfairReg containerNav">
+            <div><a class="textoOscuro" id="iniciarSesionTexto" href="../Pages/iniciarsesion.html">Iniciar Sesión</a></div>
+            <div><a class="textoOscuro" id="favoritos" href="../Pages/favoritos.html">Favoritos</a></div>
+            <div><a class="textoOscuro" href="../index.html">Home</a></div>
+        </nav>
+        <div>
+            <i class="bi bi-brightness-high-fill" id="toggleDark"></i>
+        </div>
+    </header>
+    <main class="cuerpo">
+        <div class="container-login">
+            <form class="formularioSesion" id="login">
+                <h1 class="title font-28 fontPlayfairReg">Iniciar Sesión</h1>
+                <label>
+                    <input placeholder="Usuario" type="text" id="input-user">
+                </label>
+                <label>
+                    <input placeholder="Contraseña" type="password" id="input-pass">
+                </label>
+                <h2 id="incorrecto" class="title fontPlayfairReg datosIncorrectos">Los datos ingresados son incorrectos</h2>
+                <label>
+                    <input class="botonAcceder" type="submit" value="Acceder">
+                </label>
+            </form>
+        </div>
+        <div id="logout">
+            <div class="container-logout">
+                <div class="cerrarSesion">
+                    <h2 class="title font-28 fontPlayfairReg">¿Desea cerrar sesión?</h2>
+                    <button class="botonAceptar">Aceptar</button>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="pieDePagina">
+        <div class="containerFooter">
+            <div class="contacto">
+                <h3 class="font-30 fontPlayfairReg textoOscuro">Síguenos en redes!</h3>
+            </div>
+            <div class="palomitasDiv">
+                <img class="palomitas" src="../assets/img/b2.png" alt="Logo de palomitas">
+            </div>
+            <div class="twitterDiv"><a href="https://twitter.com/home"><img class="twitter" src="../assets/img/btwitter.png" alt="Twitter logo"></a></div>
+            <div class="instagramDiv"><a href="https://www.instagram.com/"><img class="instagram" src="../assets/img/binstagram.png" alt="Instagram logo"></a></div>
+            <div class="facebookDiv"><a href="https://www.facebook.com/"><img class="facebook" src="../assets/img/bfacebook.png" alt="Facebook logo"></a></div>
+        </div>
+    </footer>
+    <script src="../js/notificaciones.js" ></script>
+    <script src="../js/iniciarsesion.js"></script>
+    <script src="../js/index.js"></script>
+</body>
+</html>
